@@ -551,7 +551,7 @@ function SystemAnalysis({ data }) {
             </h4>
             <div className="flex justify-center items-center bg-white p-4 rounded border border-gray-300">
               <img
-                src="/system-diagram-placeholder.png"
+                src="https://res.cloudinary.com/dq73qjudu/image/upload/v1746618747/Screenshot_2025-05-07_at_4.47.32_PM_sw8kee.png"
                 alt="System Diagram"
                 className="max-w-full h-auto"
                 onError={(e) => {
